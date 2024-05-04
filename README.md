@@ -16,4 +16,3 @@ To find out more, here are some links:\
 
 
 ![snake animation](https://github.com/IngridDayaneFerreira/IngridDayaneFerreira/blob/output/github-contribution-grid-snake2.svg)
-
