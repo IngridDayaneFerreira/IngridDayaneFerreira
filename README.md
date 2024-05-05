@@ -15,4 +15,4 @@ To find out more, here are some links:\
 [![Lattes](https://img.shields.io/badge/-LATTES-orange?style=plastic&logo=bookstack&logoColor=white)](http://lattes.cnpq.br/1430521530856447)
 
 
-![snake animation](https://github.com/IngridDayaneFerreira/IngridDayaneFerreira/blob/output/github-contribution-grid-snake2.svg)
+![snake gif](https://github.com/IngridDayaneFerreira/IngridDayaneFerreira/blob/output/github-contribution-grid-snake.svg)
