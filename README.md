@@ -12,5 +12,3 @@ I believe that it is never too late to learn, if there is a desire for knowledge
 To find out more, here are some links:\
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](http://linkedin.com/in/ingrid-ferreira-978411236)\
 [![Lattes](https://img.shields.io/badge/-LATTES-orange?style=plastic&logo=bookstack&logoColor=white)](http://lattes.cnpq.br/1430521530856447)
-
-`![snake gif](https://github.com/BreadcrumbsIngridDayaneFerreira/BreadcrumbsIngridDayaneFerreira/blob/output/github-contribution-grid-snake-dark.svg)`
